@@ -1,0 +1,8 @@
+{
+  "name": "Jupiter Threads",
+  "description": "AI-powered editorial fashion boutique and aggregator for premium Nigerian bottoms, streetwear, and luxury casual wear under House of JoJo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
